@@ -1,0 +1,33 @@
+<idea-plugin>
+  <id>com.github.zcg.love-your-eye-theme</id>
+  <name>Love Your Eyes Theme</name>
+  <version>1.0</version>
+  <vendor email="208580585@qq.com" url="http://github.com/zcg/love-your-eye-theme">阿宅</vendor>
+
+  <description><![CDATA[
+  这是一款绿色主题，要想过得去，每天头上多点绿，骗你的，其实这是一款采用了绿豆沙色的亮色主题，适合白天使用，相比较默认的全白色调，
+  或许有些许护眼效果，但一定能让你感到柔和，而不是白花眼
+    ]]></description>
+
+  <change-notes><![CDATA[
+    <li> 1.0 修改几乎所有背景为绿豆沙色，有问题再更新 </li>
+    ]]>
+  </change-notes>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="8b7f9bbc-547d-4f14-8bb7-5d54db73737a" path="/Light_green.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
