@@ -1,14 +1,28 @@
 {
   "name": "Light green",
   "dark": false,
-  "author": "zcg",
+  "author": "caijh",
   "editorScheme": "/Light_green.xml",
   "colors": {
-    "basicBackground": "#C7EDCC"
+    "bg": "#C7EDCC"
   },
   "ui": {
     "*": {
-      "background": "basicBackground"
+      "background": "bg"
+    },
+    "EditorTabs": {
+      "underlinedTabBackground": "bg"
+    },
+    "ToolWindow": {
+      "Header": {
+        "background": "bg",
+        "inactiveBackground": "bg"
+      },
+
+      "HeaderTab": {
+        "selectedInactiveBackground": "bg",
+        "hoverInactiveBackground": "bg"
+      }
     }
   }
 }
