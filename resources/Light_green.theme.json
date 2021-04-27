@@ -11,7 +11,7 @@
       "background": "bg"
     },
     "EditorTabs": {
-      "underlinedTabBackground": "bg"
+      "underlinedTabBackground": "#FAF9DE"
     },
     "ToolWindow": {
       "Header": {
