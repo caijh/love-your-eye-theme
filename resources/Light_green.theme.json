@@ -10,8 +10,18 @@
     "*": {
       "background": "bg"
     },
+    "Button": {
+      "default": {
+        "foreground": "#ececee",
+        "startBackground": "#6da2e8",
+        "endBackground": "#106de8",
+        "startBorderColor": "#6da2e8",
+        "endBorderColor": "#106de8",
+        "focusedBorderColor": "#ececee"
+      }
+    },
     "EditorTabs": {
-      "underlinedTabBackground": "#FAF9DE"
+      "underlinedTabBackground": "#EAEAEF"
     },
     "ToolWindow": {
       "Header": {
