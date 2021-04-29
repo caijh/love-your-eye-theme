@@ -12,16 +12,15 @@
   },
   "ui": {
     "*": {
-      "background": "bg",
-      "selectionBackground": "blue0"
+      "background": "bg"
     },
+    "List.selectionBackground": "blue0",
     "ActionButton": {
       "hoverBackground": "blue0"
     },
     "Button": {
       "startBackground": "btnStartBg",
       "endBackground": "btnEndBg",
-
       "default": {
         "foreground": "#ececee",
         "startBackground": "blue0",
