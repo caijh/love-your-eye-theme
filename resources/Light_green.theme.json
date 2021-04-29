@@ -13,7 +13,6 @@
   "ui": {
     "*": {
       "background": "bg",
-      "hoverBackground": "blue0",
       "selectionBackground": "blue0"
     },
     "ActionButton": {
