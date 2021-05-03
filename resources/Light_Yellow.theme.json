@@ -1,14 +1,12 @@
 {
-  "name": "Light green",
+  "name": "Light Yellow",
   "dark": false,
   "author": "caijh",
-  "editorScheme": "/Light_green.xml",
+  "editorScheme": "/Light_Yellow.xml",
   "colors": {
-    "bg": "#C7EDCC",
+    "bg": "#FAF9DE",
     "blue0": "#167DFF",
-    "blue1": "#0000F6",
-    "btnStartBg": "#FAF9DE",
-    "btnEndBg": "#FAF9DE"
+    "blue1": "#0000F6"
   },
   "ui": {
     "*": {
@@ -19,8 +17,6 @@
       "hoverBackground": "blue0"
     },
     "Button": {
-      "startBackground": "btnStartBg",
-      "endBackground": "btnEndBg",
       "default": {
         "foreground": "#ececee",
         "startBackground": "blue0",
