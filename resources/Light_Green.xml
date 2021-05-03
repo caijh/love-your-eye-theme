@@ -1,4 +1,4 @@
-<scheme name="Light green" version="142" parent_scheme="Default">
+<scheme name="Light Green" version="142" parent_scheme="Default">
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="CCE8CF" />
     <option name="GUTTER_BACKGROUND" value="CCE8CF" />
@@ -20,7 +20,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="99ccbb" />
+        <option name="BACKGROUND" value="DCE2F1" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
