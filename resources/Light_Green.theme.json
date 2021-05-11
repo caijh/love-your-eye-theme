@@ -4,7 +4,7 @@
   "author": "caijh",
   "editorScheme": "/Light_Green.xml",
   "colors": {
-    "bg": "#e6ffe6",
+    "bg": "#e5ffe5",
     "blue0": "#167DFF",
     "blue1": "#0000F6",
     "btnStartBg": "#FAF9DE",
@@ -19,8 +19,6 @@
       "hoverBackground": "blue0"
     },
     "Button": {
-      "startBackground": "btnStartBg",
-      "endBackground": "btnEndBg",
       "default": {
         "foreground": "#ececee",
         "startBackground": "blue0",

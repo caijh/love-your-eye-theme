@@ -1,13 +1,13 @@
 <scheme name="Light Green" version="142" parent_scheme="Default">
   <colors>
-    <option name="CONSOLE_BACKGROUND_KEY" value="e6ffe6"/>
-    <option name="GUTTER_BACKGROUND" value="e6ffe6"/>
+    <option name="CONSOLE_BACKGROUND_KEY" value="e5ffe5"/>
+    <option name="GUTTER_BACKGROUND" value="e5ffe5"/>
   </colors>
   <attributes>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="ff" />
-        <option name="BACKGROUND" value="e6ffe6"/>
+        <option name="BACKGROUND" value="e5ffe5"/>
         <option name="EFFECT_COLOR" value="ff" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -26,7 +26,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="BACKGROUND" value="e6ffe6"/>
+        <option name="BACKGROUND" value="e5ffe5"/>
       </value>
     </option>
   </attributes>
